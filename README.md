@@ -8,5 +8,4 @@ This bank uses a pool of investors to sanction their loans. For example: If any 
 We have to help this bank by predicting the probability that a member will default.
 
 Training Dataset - https://drive.google.com/file/d/1xqkWxi_pbimoGwB-7WzBGbg-RZQwWQHg/view?usp=sharing 
-
 Testing Dataset - https://drive.google.com/file/d/1idwrcg39y0Z6w3uzdpNkoMDOQmUY3iLa/view?usp=sharing
