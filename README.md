@@ -7,5 +7,5 @@ The Bank Indessa has not done well in the last 3 quarters. Their NPAs (Non Perfo
 This bank uses a pool of investors to sanction their loans. For example: If any customer has applied for a loan of $20000, along with the bank, the investors perform due diligence on the requested loan application. Keep this in mind while understanding data.
 We have to help this bank by predicting the probability that a member will default.
 
-Training Dataset - https://drive.google.com/file/d/1xqkWxi_pbimoGwB-7WzBGbg-RZQwWQHg/view?usp=sharing 
+Training Dataset - https://drive.google.com/file/d/1xqkWxi_pbimoGwB-7WzBGbg-RZQwWQHg/view?usp=sharing                         
 Testing Dataset - https://drive.google.com/file/d/1idwrcg39y0Z6w3uzdpNkoMDOQmUY3iLa/view?usp=sharing
